@@ -1,5 +1,3 @@
-# Shikha's Portfolio
-
 ### Data & AI | Analytics | Power BI | Data Architecture
 
 Welcome to my portfolio. This repository showcases selected projects demonstrating my experience and learning across data analytics, Power BI, data modelling, SQL, cloud and AI.
