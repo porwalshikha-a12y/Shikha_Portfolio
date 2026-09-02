@@ -90,46 +90,27 @@ These datasets are combined to capture spatial, socio-economic, and environmenta
 
 ---
 
+👉 [View the complete Airbnb Price Prediction ML Model project](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray)
+
+---
+
 ## Unsupervised EDA Plots
 
-![Property Clusters - PCA Projection](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/cluster_plot.png)
+![Property Clusters - PCA Projection](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/cluster_plot.png)
 
-![Scree Plot - Explained Variance](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/scree_plot.png)
+![Scree Plot - Explained Variance](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/scree_plot.png)
 
-![Elbow Method](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/elbow.png)
+![Elbow Method](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/elbow.png)
 
 ## Listing Featured Plots
 
-![Property Amenities Correlation heatmap](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/correlation_heatmap.png)
+![Property Amenities Correlation heatmap](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/correlation_heatmap.png)
 
-![Price by Dominant Season](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/03_price_by_dominant_season.png)
+![Price by Dominant Season](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/03_price_by_dominant_season.png)
 
-![Price by Room Type](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/03_price_by_room_type.png)
+![Price by Room Type](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/03_price_by_room_type.png)
 
-![Top 20 Listings by Boroughs](https://github.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/blob/main/images/09_listings_per_area.png)
-
-
-## Trade Flow Reconciliation
-
-![Trade Flow Reconciliation](https://raw.githubusercontent.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/main/images/ReconciliationDashboard.png)
-
-👉 [View the complete Power BI project](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports)
-
----
-
-## 🛠️ Skills & Technologies
-
-- Power BI
-- DAX
-- SQL
-- Data Modelling
-- Data Analytics
-- Microsoft Fabric
-- Azure
-- Data Architecture
-- AI / Data Engineering
-
----
+![Top 20 Listings by Boroughs](https://raw.githubusercontent.com/porwalshikha-a12y/Airbnb_PricePrediction_NeuralNetwork_Ray/main/images/09_listings_per_area.png)
 
 ### 2. Financial Data Analysis – Power BI
 
