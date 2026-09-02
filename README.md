@@ -22,11 +22,11 @@ A Power BI financial analytics project demonstrating data modelling, dashboard d
 
 #### User Flow Analysis
 
-![User Flow Analysis](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/blob/main/images/UserFlowAnalysisbyTime.png)
+![User Flow Analysis](https://raw.githubusercontent.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/main/images/UserFlowAnalysisbyTime.png)
 
 #### Trade Flow Reconciliation
 
-![Trade Flow Reconciliation](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/blob/main/images/ReconciliationDashboard.png)
+![Trade Flow Reconciliation](https://raw.githubusercontent.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/main/images/ReconciliationDashboard.png)
 
 👉 [View the complete Power BI project](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports)
 
