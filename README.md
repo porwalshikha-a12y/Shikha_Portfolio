@@ -9,7 +9,7 @@ My Data / AI Projects Portfolio
 
 ## Trade Flow Reconciliation
 
-![Trade Reconciliation](images/ReconciliationnDashboard.png)
+![Trade Flow Reconciliation](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/blob/main/images/ReconciliationDashboard.png)
 
 This is a powerbi data analysis project I did to showcase my knowledge in building powerbi dashboard and enable finance business team to perform data analysis and gain data insights from these reports.
 
