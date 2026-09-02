@@ -3,11 +3,11 @@ My Data / AI Projects Portfolio
 
 # [Project 1: PowerBI - Financial Data Analysis Model](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/tree/main)
 
-## Revenue Analysis
+## User Flow Analysis
 
-![Revenue Analysis](images/UserFlowAnalysisbyTime.png)
+![Revenue Analysis](https://github.com/porwalshikha-a12y/FinancialAnalysis-PowerBI-Reports/blob/main/images/UserFlowAnalysisbyTime.png)
 
-## Trade Reconciliation
+## Trade Flow Reconciliation
 
 ![Trade Reconciliation](images/ReconciliationnDashboard.png)
 
